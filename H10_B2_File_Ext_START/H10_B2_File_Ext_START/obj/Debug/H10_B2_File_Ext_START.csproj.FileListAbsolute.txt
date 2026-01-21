@@ -1,0 +1,10 @@
+C:\Users\Stijn\Dropbox\KA Malle\digi archief OPG test ex taak\6 ADB ICW\SOFT\C#\Boek II\H10 II File Map Directory\H10_B2_File_Ext_START\H10_B2_File_Ext_START\obj\Debug\H10_B2_File_Ext_START.csproj.AssemblyReference.cache
+C:\Users\Stijn\Dropbox\KA Malle\digi archief OPG test ex taak\6 ADB ICW\SOFT\C#\Boek II\H10 II File Map Directory\H10_B2_File_Ext_START\H10_B2_File_Ext_START\obj\Debug\H10_B2_File_Ext_START.Properties.Resources.resources
+C:\Users\Stijn\Dropbox\KA Malle\digi archief OPG test ex taak\6 ADB ICW\SOFT\C#\Boek II\H10 II File Map Directory\H10_B2_File_Ext_START\H10_B2_File_Ext_START\obj\Debug\H10_B2_File_Ext_START.csproj.GenerateResource.cache
+C:\Users\Stijn\Dropbox\KA Malle\digi archief OPG test ex taak\6 ADB ICW\SOFT\C#\Boek II\H10 II File Map Directory\H10_B2_File_Ext_START\H10_B2_File_Ext_START\obj\Debug\H10_B2_File_Ext_START.csproj.CoreCompileInputs.cache
+C:\Users\Stijn\Dropbox\KA Malle\digi archief OPG test ex taak\6 ADB ICW\SOFT\C#\Boek II\H10 II File Map Directory\H10_B2_File_Ext_START\H10_B2_File_Ext_START\bin\Debug\H10_B2_File_Ext_START.exe.config
+C:\Users\Stijn\Dropbox\KA Malle\digi archief OPG test ex taak\6 ADB ICW\SOFT\C#\Boek II\H10 II File Map Directory\H10_B2_File_Ext_START\H10_B2_File_Ext_START\bin\Debug\H10_B2_File_Ext_START.exe
+C:\Users\Stijn\Dropbox\KA Malle\digi archief OPG test ex taak\6 ADB ICW\SOFT\C#\Boek II\H10 II File Map Directory\H10_B2_File_Ext_START\H10_B2_File_Ext_START\bin\Debug\H10_B2_File_Ext_START.pdb
+C:\Users\Stijn\Dropbox\KA Malle\digi archief OPG test ex taak\6 ADB ICW\SOFT\C#\Boek II\H10 II File Map Directory\H10_B2_File_Ext_START\H10_B2_File_Ext_START\obj\Debug\H10_B2_File_Ext_START.FormLoadLog.resources
+C:\Users\Stijn\Dropbox\KA Malle\digi archief OPG test ex taak\6 ADB ICW\SOFT\C#\Boek II\H10 II File Map Directory\H10_B2_File_Ext_START\H10_B2_File_Ext_START\obj\Debug\H10_B2_File_Ext_START.exe
+C:\Users\Stijn\Dropbox\KA Malle\digi archief OPG test ex taak\6 ADB ICW\SOFT\C#\Boek II\H10 II File Map Directory\H10_B2_File_Ext_START\H10_B2_File_Ext_START\obj\Debug\H10_B2_File_Ext_START.pdb
